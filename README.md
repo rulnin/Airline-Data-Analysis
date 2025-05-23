@@ -9,9 +9,8 @@ This project demonstrates advanced SQL skills through the analysis of airline op
 
 ## 🧰 Tools & Technologies
 * Database: PostgreSQL
-* Language: SQL
-* Visualization: (Optional) Metabase / Power BI / Tableau
-* Environment: pgAdmin / DBeaver / SQL Server Management Studio
+* Language: SQL and Python
+* Environment: pgAdmin
 
 ## 🗃️ Dataset Overview
 The project uses a relational database that includes the following tables:
