@@ -17,8 +17,10 @@ The project uses a relational database that includes the following tables:
 * flights: Flight schedule and aircraft info.
 * seats: Seat layout per aircraft.
 * boarding_passes: Passenger seat assignments.
-* aircrafts_data: Aircraft specifications.
+* aircrafts: Aircraft specifications.
 * ticket_flights, tickets, bookings: Booking and ticketing details.
+  
+![image](https://github.com/user-attachments/assets/9c117027-ac79-4de5-be0e-ebe268bcf682)
 
 ## 📊 Key Analyses
 1. Available Seats on Specific Flights
